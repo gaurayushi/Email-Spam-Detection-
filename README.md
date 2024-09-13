@@ -25,7 +25,7 @@ cd Email-Spam-Detection
 Step 2: Check if Python is installed
 If Python is not installed on your system, follow these steps:
 
-Go to the Python official website and download the latest version of Python.
+Go to the Python official website and download the latest version of Python..
 During installation, ensure you check the option to "Add Python to PATH".
 To verify if Python is installed, run:
 python --version
