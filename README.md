@@ -19,7 +19,7 @@ This project is an **Email Spam Detection** system built using **Streamlit** for
 #### Step 1: Clone this repository to your local machine
 Open the terminal and run the following commands:
 ```bash
-git clone https://github.com/your-username/Email-Spam-Detection.git
+git clone https://github.com/gaurayushi/Email-Spam-Detection-.git
 cd Email-Spam-Detection
 
 Step 2: Check if Python is installed
