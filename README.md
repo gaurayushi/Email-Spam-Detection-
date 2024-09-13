@@ -1,12 +1,9 @@
-![Capture03](https://github.com/user-attachments/assets/4d32ca31-20c5-4bf3-bfb7-f138d9fbb0e6)# Email-Spam-Detection
 ## Project Overview
-This project is an **Email Spam Detection** system built using **Streamlit** for the user interface and **Naive Bayes** for classifying emails as either "Spam" or "Not Spam!
-". It uses machine learning to analyze the content of emails and predict whether they are spam or not.
+This project is an **Email Spam Detection** system built using **Streamlit** for the user interface and **Naive Bayes**
+for classifying emails as either "Spam" or "Not Spam!". It uses machine learning to analyze the content of emails and 
+predict whether they are spam or not.
 
 ![Capture01](https://github.com/user-attachments/assets/3a9baf27-41a4-4c4d-8a88-fd443a4fa425)
-
-![Capture02](https://github.com/user-attachments/assets/28cbd09d-3a3a-4264-aa1c-b54d5fd068bd)
-
 
 ![Capture03](https://github.com/user-attachments/assets/af773506-1023-4e9e-91e8-557733144ca1)
 
